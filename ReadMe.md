@@ -30,3 +30,6 @@ Avoidance of APIs that transmit data to third-party servers to uphold data priva
 ## Implementation video:
 ![image](https://github.com/shantanu23potdar/Akasuki-Project-Info-Tec/assets/91558870/0b1dad09-6119-4823-aa74-41ea791f5df8)
 
+
+## Output:
+![Web capture_21-8-2023_11757_](https://github.com/shantanu23potdar/Akasuki-Project-Info-Tec/assets/91558870/46783fa1-7679-47ed-8013-f81f4d10c343)
