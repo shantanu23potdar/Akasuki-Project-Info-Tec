@@ -25,3 +25,7 @@ Actionable insights are presented to guide users on resolving the detected compl
 Utilization of an open-source Large Language Model (LLM).
 Implementation of a generic tech stack for automation and parsing.
 Avoidance of APIs that transmit data to third-party servers to uphold data privacy and security.
+
+## Implementation video:
+![image](https://github.com/shantanu23potdar/Akasuki-Project-Info-Tec/assets/91558870/0b1dad09-6119-4823-aa74-41ea791f5df8)
+
