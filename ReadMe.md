@@ -26,6 +26,11 @@ Utilization of an open-source Large Language Model (LLM).
 Implementation of a generic tech stack for automation and parsing.
 Avoidance of APIs that transmit data to third-party servers to uphold data privacy and security.
 
+## Login and SignUp:
+
+![Web capture_21-8-2023_12123_](https://github.com/shantanu23potdar/Akasuki-Project-Info-Tec/assets/91558870/8ba964be-1bee-4fbd-8de0-b54bbbca0f6c)
+![Web capture_21-8-2023_12136_](https://github.com/shantanu23potdar/Akasuki-Project-Info-Tec/assets/91558870/8b7a9b02-5c28-4eb3-888d-4497a8e10460)
+
 
 ## Implementation video:
 ![image](https://github.com/shantanu23potdar/Akasuki-Project-Info-Tec/assets/91558870/0b1dad09-6119-4823-aa74-41ea791f5df8)
