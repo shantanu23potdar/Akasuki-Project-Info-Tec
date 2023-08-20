@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+
+    <div class="header">
+        <div class="header-logo">PolicyGuard</div>
+        <ul class="header-nav">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="Guidelines.html">Guidelines</a></li>
+            <li><a href="Demovideo.html">Demo</a></li>
+            <li><a href="login.html">Login</a></li>
+            <li><a href="signup.html">Sign Up</a></li>
+        </ul>
+      </div>
+
+      <div class="container">
+        <img src="guidlines.jpg" alt="Snow" style="width:50%">
+        <p  style="color: rgb(0, 0, 0) " >"Welcome to PolicyGuard: AI-Driven Compliance Monitoring "</p>
+        <a href="demo.html"><button class="Guidbtn">Check Guidelines</button></a>
+        <!-- <button class="btn">Button</button> -->
+      </div>
+     
+</div>
+
+
+
+
+<script>
+  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+      e.preventDefault();
+
+      document.querySelector(this.getAttribute('href')).scrollIntoView({
+        behavior: 'smooth'
+      });
+    });
+  });
+</script>
+</body>
+</html>

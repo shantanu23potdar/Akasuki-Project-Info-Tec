@@ -1,0 +1,310 @@
+/* Additional CSS styling for the header */
+body{
+    background-color:white;
+}
+.header {
+    background-color:#212A3E;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .header-logo {
+    font-family: 'Arial', sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    color: #fdfafa;
+  }
+
+  .header-nav {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+  }
+
+  .header-nav li {
+    font-size: 20px;
+    transition: color 0.3s ease;
+  }
+
+  .header-nav a {
+    text-decoration: none;
+    color: white;
+    padding : 10px;
+  }
+
+  .header-nav a:hover {
+    color: #ff6600;
+  }
+
+  .section-heading {
+    font-size: 56px;
+    line-height: inherit;
+    font-weight: 800;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+  }
+
+
+  /* -------------------------------------------------------- */
+
+/* Add these styles to your styles.css file */
+
+.container {
+  position: relative;
+  width: 100%;
+  /* max-width: 400px; */
+  height: 80%;
+}
+
+/* .container img {
+  width: 365%;
+  height: 100%;
+} */
+.container p{
+  position: absolute;
+  top: 20%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  color: white;
+  font-size: 50px;
+  font-weight: 100;
+  padding: 12px 24px;
+  border: none;
+  /* cursor: pointer; */
+  /* border-radius: 5px; */
+  text-align: center;
+}
+.container .btn {
+  position: absolute;
+  top: 45%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #394867;
+  color: white;
+  font-size: 16px;
+  padding: 22px 30px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.container .Guidbtn{
+  position: absolute;
+  top: 60%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #394867;
+  color: white;
+  font-size: 16px;
+  padding: 22px 30px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.container .btn:hover {
+  background-color: black;
+}
+/* ------------------------------------------------------- */
+.row {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+  }
+
+  
+  .dropdown {
+    position: relative;
+  }
+  
+  .payal-button {
+    background-color: #394867;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 8px;
+  }
+  
+  .payal-button:hover {
+    background-color: #394867;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: #ddd;
+  }
+  
+
+  /* ---------------------------------------------------------- */
+/* Define styles for the Payal button */
+.payal-button {
+    background-color: #03506F;
+    border: none;
+    color: white;
+    padding: 20px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 6px 5px;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+  
+  /* Hover effect for the Payal button */
+  .payal-button:hover {
+    background-color: #040506;
+  }
+  
+  /* Define styles for the logs button */
+  .logs-button {
+    background-color: #4caf50;
+    border: none;
+    color: white;
+    padding: 10px 40%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  /* Hover effect for the logs button */
+  .logs-button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Define styles for the dropdown */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Styles for the dropdown content */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Style for the dropdown links */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Hover effect for the dropdown links */
+  .dropdown-content a:hover {
+    background-color: #f1f1f1;
+  }
+  
+  /* Show dropdown content when hovering over the parent */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  /* --------------------------------------------Generate report---------------------------------------------------- */
+
+  .Generate {
+    position: relative;
+  }
+  
+  
+  
+
+  /* ---------------------------------------------------------- */
+/* Define styles for the Payal button */
+.Generate-button {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(0, 30, 255);
+    color: white;
+    font-size: 20px;
+    padding: 22px 30px;
+    /* border: none; */
+    cursor: pointer;
+    /* border-radius: 5px; */
+    margin: 50px;
+    text-align: center;
+  }
+  
+  /* Hover effect for the Payal button */
+  .Generate-button:hover {
+    background-color: #8bc5ff;
+  }
+  
+  /* ----------------------------------------------Foter------------------------------------------------ */
+  /* Style the footer */
+footer {
+  background-color: #212A3E;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-left, .footer-right {
+  flex: 1;
+}
+
+.footer-left h3, .footer-right h3 {
+  color: #FFA500;
+}
+
+.footer-right a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.footer-bottom {
+  margin-top: 10px;
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Sign Up - PolicyGuard</title>
+</head>
+<body>
+    <header>
+        <h1>PolicyGuard</h1>
+    </header>
+    <div class="signup-container">
+        <h2>Sign Up</h2>
+        <form action="process_signup.php" method="post">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+            
+            <label for="personal_email">Personal Email:</label>
+            <input type="email" id="personal_email" name="personal_email" required>
+            
+            <label for="company_email">Company Email:</label>
+            <input type="email" id="company_email" name="company_email" required>
+            
+            <label for="mobile">Mobile Number:</label>
+            <input type="tel" id="mobile" name="mobile" required>
+            
+            <label for="employee_id">Employee ID:</label>
+            <input type="text" id="employee_id" name="employee_id" required>
+            
+            <label for="password">Create Password:</label>
+            <input type="password" id="password" name="password" required>
+            
+            <label for="confirm_password">Confirm Password:</label>
+            <input type="password" id="confirm_password" name="confirm_password" required>
+            
+            <a href= index.html><input type="submit" value="Sign Up"></a>
+        </form>
+    </div>
+</body>
+</html>
