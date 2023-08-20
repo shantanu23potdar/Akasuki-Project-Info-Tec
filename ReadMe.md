@@ -28,13 +28,16 @@ Avoidance of APIs that transmit data to third-party servers to uphold data priva
 
 ## Login and SignUp:
 
-![Web capture_21-8-2023_12123_](https://github.com/shantanu23potdar/Akasuki-Project-Info-Tec/assets/91558870/8ba964be-1bee-4fbd-8de0-b54bbbca0f6c)
-![Web capture_21-8-2023_12136_](https://github.com/shantanu23potdar/Akasuki-Project-Info-Tec/assets/91558870/8b7a9b02-5c28-4eb3-888d-4497a8e10460)
 
 
-## Implementation video:
-![image](https://github.com/shantanu23potdar/Akasuki-Project-Info-Tec/assets/91558870/0b1dad09-6119-4823-aa74-41ea791f5df8)
+![Web capture_21-8-2023_12136_](https://github.com/shantanu23potdar/Akasuki-Project-Info-Tec/assets/91558870/4537ce4a-aed0-4c50-b49a-de35728a766b)
+![Web capture_21-8-2023_12123_](https://github.com/shantanu23potdar/Akasuki-Project-Info-Tec/assets/91558870/9cf2510d-bcea-4e91-b0d0-78a9c0927c89)
+
+## Homepage :
+![image](https://github.com/shantanu23potdar/Akasuki-Project-Info-Tec/assets/91558870/2690db51-7e86-4b87-ac06-ddaf1ce44d05)
+
 
 
 ## Output:
-![Web capture_21-8-2023_11757_](https://github.com/shantanu23potdar/Akasuki-Project-Info-Tec/assets/91558870/46783fa1-7679-47ed-8013-f81f4d10c343)
+![Web capture_21-8-2023_11757_](https://github.com/shantanu23potdar/Akasuki-Project-Info-Tec/assets/91558870/d0834b9c-7145-4c37-b0d2-478595589fc6)
+
